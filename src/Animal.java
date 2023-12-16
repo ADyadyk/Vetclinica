@@ -57,6 +57,17 @@ public class Animal {
         play();
         sleep();
     }
+    // Homework methods:
+
+    public void toGo(){
+        System.out.println("Animal go!");
+    }
+    public void fly(){
+        System.out.println("Animal fly!");
+    }
+    public void swim(){
+        System.out.println("Animal swim!");
+    }
 
     @Override
     public String toString() {
