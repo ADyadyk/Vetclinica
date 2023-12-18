@@ -11,4 +11,14 @@ public class Cat extends Animal{
     public int getLegsCount() {
         return legsCount;
     }
+
+    @Override
+    public void fly() {
+        System.out.println("Я не умею летать!!!");
+    }
+
+    @Override
+    public void swim() {
+        System.out.println("Я боюсь плавать!!!");
+    }
 }

@@ -63,5 +63,17 @@ public class Main {
         tuzik.swim();
         tuzik.toGo();
         tuzik.fly();
+
+        System.out.println("_______Из классной работы______");
+        System.out.println("Посмотрим, что умеет делать наш кот Barsik:");
+        barsik.swim();
+        barsik.toGo();
+        barsik.fly();
+
+        System.out.println("_______Из классной работы______");
+        System.out.println("Посмотрим, что умеет делать наш орел Kesha:");
+        eagle.swim();
+        eagle.toGo();
+        eagle.fly();
     }
 }
