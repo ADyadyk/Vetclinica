@@ -12,6 +12,7 @@ public class Cat extends Animal{
         return legsCount;
     }
 
+    // Переопределил методы в этом классе:
     @Override
     public void fly() {
         System.out.println("Я не умею летать!!!");

@@ -63,7 +63,7 @@ public class Main {
         tuzik.swim();
         tuzik.toGo();
         tuzik.fly();
-
+        // Добавил живтоных из классной работы:
         System.out.println("_______Из классной работы______");
         System.out.println("Посмотрим, что умеет делать наш кот Barsik:");
         barsik.swim();
